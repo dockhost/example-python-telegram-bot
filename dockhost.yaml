@@ -1,0 +1,15 @@
+version: 1
+project: my-project
+
+repositories:
+
+    echobot:
+
+        url: https://github.com/dockhost/example-python-telegram-bot.git
+        branch: main
+
+        # Set CPU and Memory for first container startup
+
+        cpu: 1
+        cpuFraction: 20
+        memory: 256MiB
