@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://dockhost.ru">
-    <img src="https://upload.dockhost.ru/images/logo/favicon-cube.svg" alt="Logo" width="80" height="80">
+    <img src="https://upload.dockhost.ru/images/logo/favicon-cube.svg?v2" alt="Logo" width="80" height="80">
   </a>
   <h3 align="center">Dockhost</h3>
   <p align="center">
